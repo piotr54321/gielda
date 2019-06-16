@@ -1,3 +1,3 @@
 # gielda
-Aby "giełda" działała, pliki repozytorium zamieniamy z katalogiem "application" Frameworku CodeIgniter 3.x
+Wymagany Framework CodeIgniter
 https://www.codeigniter.com/download
